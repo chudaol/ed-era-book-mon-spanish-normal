@@ -60,7 +60,7 @@ No, no me gusta…<br>
 ¡Feliz cumpleaños (Año Nuevo, Navidad)!<br>
 Vale (Bien).<br>
 ¡Qué bien!<br>
-¡Vaya!¡Ojo! ¡Hurra!<br>
+¡Vaya! ¡Ojo! ¡Hurra!<br>
 ¡Perdón!<br>
 ¡Perdóneme!<br>
 ¡Gracias!<br>
